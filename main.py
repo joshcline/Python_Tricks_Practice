@@ -1,0 +1,2 @@
+# Write a lambda function to sort a list of tuples in ascending order according to the number in the second position of each tuple.
+grades = [("English", 88), ("Science", 90), ("Math", 97), ("Social Sciences", 82)]
